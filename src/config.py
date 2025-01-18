@@ -1,0 +1,8 @@
+DATA_PATH = "../data/detailed.csv"
+DEFAULT_SYMBOL = "EURUSD"
+START_DATE = "2012-01-30"
+END_DATE = "2013-01-30"
+INITIAL_BALANCE = 100000
+USE_SPREAD = True
+sl_perc = 0.002
+tp_perc = 0.004
