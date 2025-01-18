@@ -20,8 +20,8 @@
 ## How It Works
 
 1. **SMA Crossover Strategy**:
-   - **Buy Signal**: When all the SMA are one above each other, the bot places a buy order and sets specified stop loss and take profit. It exits trade when either of them are triggered.
-   - **Sell Signal**:When all the SMA are one below each other, the bot places a sell order and sets specified stop loss and take profit. It exits trade when either of them get triggered.
+   - **Buy Signal**: When all the SMAs are one above each other, the bot places a buy order.
+   - **Sell Signal**:When all the SMAs are one below each other, the bot places a sell order.
 
 2. **Stop Loss & Take Profit**:
    - Protect profits and limit losses by automatically exiting positions based on predefined percentages.
